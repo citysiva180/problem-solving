@@ -11,6 +11,7 @@
 # 10. Palindrome 
 # 11. Perform, sum, multiply, add and divide on individual list of elements 
 # 12. Using Logical gates in python
+# 13. Finding Permutations and Combinations in python | use Itertools and Collections Module!
 
  #==========================================
 # First Approach 
